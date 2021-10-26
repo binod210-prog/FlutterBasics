@@ -1,0 +1,60 @@
+{
+  "products": [
+    {	
+        "id": 1,
+        "name": "iphone 12 pro",
+        "desc": "Apple iphone 12th generation",
+        "color": "#33505a",
+        "price": 115900,
+        "image":
+            "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.CNlisHwz8jIc6X-wN-VsMgHaME%26pid%3DApi&f=1"
+    },
+
+    {
+
+	      "id": 2,
+        "name": "OnePlus Nord CE 5G",
+        "desc": "OnePlus Nord CE 5G 5th generation",
+        "color": "#33505a",
+        "price": 27000,
+        "image":
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtHWcNMLw6VROeI0IiBaHbob9p0sp3mMylj3jh5ZWopwjjBigZC-hd9PGSCw&usqp=CAc"
+    },
+
+    {
+
+	      "id": 3,
+        "name": "Xiaomi Redmi Note 11",
+        "desc": "AXiaomi Redmi Note 11 Pro Max 5G",
+        "color": "#33505a",
+        "price": 69000,
+        "image":
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq6OcPS_BZN_bSY5OTCoP-Lj_WWnYROawtI0RDj0SZsplo6UtSfkUfE1-oOw&usqp=CAc"
+
+    },
+
+    {
+
+	      "id": 4,
+        "name": "Samsung Galaxy S21 Ultra",
+        "desc": "Samsung Galaxy S21 Ultra",
+        "color": "#33505a",
+        "price": 104180,
+        "image":
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRlq3E-dvdHTG6SOk5jjTkO2OZxP31LQ0MfxTzAWfKKAyE_weuuyIbc0pf&usqp=CAc"
+    },
+
+    {
+
+	      "id": 5,
+        "name": "Vivo X60 Pro Plus",
+        "desc": "Vivo X60 Pro Plus",
+        "color": "#33505a",
+        "price": 69990,
+        "image":
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLecMCrU4rW8EYTg1a0Tu3Ez0q4nGVkii5FJawPexeCPa2RR4mp6B9RJ5EDEq6WFwr5Di9M8&usqp=CAc"
+    }
+
+  ]
+
+}     	
